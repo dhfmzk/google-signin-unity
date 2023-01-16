@@ -1,4 +1,7 @@
 # Google Sign-In Unity Plugin
+> This repository makes it possible to use google-signin-for-unity with Unity Package Manager (UPM)
+> Unfortunately, the original repository does not seem to have any intention of adding further bug fixes and repackages or UPM deployments.
+    
 _Copyright (c) 2017 Google Inc. All rights reserved._
 
 
@@ -13,6 +16,15 @@ It is cross-platform, supporting both Android and iOS.
 
 See [Google Sign-In for Android](https://developers.google.com/identity/sign-in/android/start)
 for more information.
+
+## Installation
+
+### Install via Git URL
+
+- Add following dependency to `Packages/manifest.json` in your project;
+
+
+> For the official plugin, check out the [original repository](https://github.com/googlesamples/google-signin-unity)
 
 ## Configuring the application  on the API Console
 
